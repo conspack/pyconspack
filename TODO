@@ -1,0 +1,17 @@
+TODO
+
+= Encoding
+  = Numbers
+    - Rational
+    - Complex
+  - Properties
+  + Indexes
+= Decoding
+  + Containers
+    + TMap
+  = Numbers
+    - Rational
+    - Complex
+  + References
+  - Properties
+  + Indexes
